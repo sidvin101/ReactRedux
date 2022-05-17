@@ -1,2 +1,2 @@
 # ReactRedux
-## This project is a workshop on how to make a Login Authentication form using the React and Redux applications and libraries.
+## This is a demo based off of React and Redux.
